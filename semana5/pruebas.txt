@@ -1,0 +1,8 @@
+Prueba 1 - Ruta /:
+Muestra el mensaje 'Servidor activo' y confirma que el servidor está funcionando correctamente.
+
+Prueba 2 - Ruta /saludo:
+Responde con 'Hola comunidad', demostrando una ruta simple que devuelve un mensaje fijo.
+
+Prueba 3 - Ruta /mensaje/:nombre:
+Recibe un valor en la URL, por ejemplo /mensaje/juan, y devuelve un saludo personalizado con el nombre ingresado.

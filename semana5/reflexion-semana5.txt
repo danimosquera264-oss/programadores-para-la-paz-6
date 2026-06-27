@@ -1,0 +1,7 @@
+Las APIs permiten que diferentes personas y sistemas compartan información de manera ordenada y rápida.
+Gracias a ellas, una comunidad puede enviar reportes, alertas o solicitudes sin depender de procesos manuales.
+También ayudan a centralizar la información para que sea más fácil consultarla y analizarla.
+Una API puede recibir mensajes desde varias fuentes y organizarlos en una sola respuesta.
+Esto mejora la comunicación entre miembros, voluntarios y organizaciones.
+Además, facilita la creación de herramientas digitales para seguimiento y respuesta.
+En general, las APIs hacen que la información llegue de forma más eficiente y estructurada.
